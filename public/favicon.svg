@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4D7DA"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#F3E5AB"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="#111827"/>
+  <circle cx="32" cy="32" r="20" fill="url(#goldGradient)"/>
+  <path
+    d="M32 18L35.5 27.5H45L37.5 33L40.5 43L32 37.5L23.5 43L26.5 33L19 27.5H28.5L32 18Z"
+    fill="#111827"
+  />
+  <text x="32" y="52" text-anchor="middle" font-family="Playfair Display, serif" font-size="10" fill="#F9FAFB">
+    GU
+  </text>
+</svg>
