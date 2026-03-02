@@ -222,6 +222,6 @@ Created as a premium beauty salon website showcase featuring:
 
 ---
 
-**Live Demo**: [Add your deployment URL]
-**Portfolio**: [Add your portfolio link]
-**Contact**: [Add your contact info]
+**Live Demo**: [https://salonglowup.netlify.app]
+**Portfolio**: [https://www.nexaiweb.com]
+**Contact**: [info@nexaiweb.com]
